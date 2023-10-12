@@ -1,18 +1,13 @@
 # Processando e Transformando Dados com Power BI
-REPOSITÓRIO EM CONSTRUÇÃO SERÁ FINALIZADO TOTALMENTE ATÉ 22/10
-
-Desafio de Projeto - Processando e Transformando Dados com Power BI
-
 
 <p align="center">
-    <img width="100" src="IMG EM BREVE">
+    <img width="100" src="https://github.com/Sandrapenha01/dadospowerBI-newforsp/blob/main/imgprojeto.png">
 </p>
 
 -------
-
 <p align="center">
   <img 
-    src="IMG EM BREVE"
+    src="https://github.com/Sandrapenha01/dadospowerBI-newforsp/blob/main/Microsoft-Power-BI-Logo.png"
     width="400"  
   />
 </p>
@@ -22,13 +17,12 @@ Desafio de Projeto - Processando e Transformando Dados com Power BI
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o Bootcamp Ciências de Dados com Python da [DIO](https://dio.me).
 
 
-Projeto com o objetivo de promover minha autoridade técnica.
+Projeto com o objetivo de promover minha autoridade técnica. Objetivo alcançado em termos de conhecimento, parte prática ainda não finalizada. Pretendo trabalhar nela e concluir futuramente.
 
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [ferramenta1]() - Para todo o projeto
-- [ferramenta2]() - Para formatação de banner
+- [Power BI](https://powerbi.microsoft.com/pt-br/landing/free-account/?ef_id=_k_Cj0KCQjwsp6pBhCfARIsAD3GZuYHHnWOG3GYC_fdatyYl5OsLG1ZU6pyjkkzmQ2dXixCtKGsSSj-wxMaAj6NEALw_wcB_k_&OCID=AIDcmmk4cy2ahx_SEM__k_Cj0KCQjwsp6pBhCfARIsAD3GZuYHHnWOG3GYC_fdatyYl5OsLG1ZU6pyjkkzmQ2dXixCtKGsSSj-wxMaAj6NEALw_wcB_k_&gclid=Cj0KCQjwsp6pBhCfARIsAD3GZuYHHnWOG3GYC_fdatyYl5OsLG1ZU6pyjkkzmQ2dXixCtKGsSSj-wxMaAj6NEALw_wcB) - Para todo o projeto
 
 ## 📄 O Projeto
 
@@ -37,13 +31,17 @@ Desafio de Projeto：
 |   Ação   |                                                                                                                                                                                                                                                                          |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  Projeto  | Processando e Transformando Dados com Power BI                                                                                                                                                                                                |
-|  | Neste desafio vou aplicar as etapas de coleta, obtenção e transformação de dados com Power BI e MySQL na Azure. Siguindo os passos definidos nos vídeos das aulas do Bootcamp. |
+|  | Neste desafio era necessário aplicar as etapas de coleta, obtenção e transformação de dados com Power BI e MySQL na Azure. Siguindo os passos definidos nos vídeos das aulas do Bootcamp. |
 
 
-## ✨ Features
 
-DESCRIÇÃO DO PROJETO
-Descrição do desafio módulo 3 – Processamento de Dados Simplificado com Power BI
+## 📚 Materiais
+
+- Aulas  do Bootcamp da DIO
+
+## 🛠️ Instruções de execução
+
+ – Processamento de Dados Simplificado com Power BI
 
 1. Criação de uma instância na Azure para MySQL
 
@@ -87,14 +85,6 @@ Diretrizes para transformação dos dados
 
 16. Elimine as colunas desnecessárias, que não serão usadas no relatório, de cada tabela
 
-## 📚 Materiais
-
-- Aulas  do Bootcamp da DIO
-
-## 🛠️ Instruções de execução
-
-Atualização em breve
-
 
 ## 👩🏻‍💻 Expert
 
@@ -120,4 +110,4 @@ Atualização em breve
 
 ---
 
-⌨️ Feito por Sandra Penha.
+⌨️ por Sandra Penha.
